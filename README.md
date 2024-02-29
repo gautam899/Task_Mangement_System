@@ -1,6 +1,6 @@
 # Task_Mangement_System
 
-This is a MERN stack project made using.
+This is a completely responsive MERN stack Task Management Application that allows users to add task, delete tasks, and toggle complete. The application also classifies tasks into categories of All tasks, important, complete, and incomplete.
 # Getting Started
 1. The first thing that we need to run the development server. To do that we need to run the command npm run dev in the terminal.
 2. Then we need to open the localhost:3000 in the browser to see the result.
