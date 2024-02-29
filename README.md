@@ -4,9 +4,9 @@ This is a MERN stack project made using.
 # Getting Started
 1. First thing that we need to run the development server.
     npm run dev
-    # or
+    or
     yarn dev
-    # or
+    or
     pnpm dev
-    # or
+    or
     bun dev
