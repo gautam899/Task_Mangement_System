@@ -17,3 +17,7 @@ This is a MERN stack project made using.
 9. Momentjs for formatting date and time
    
 ![image](https://github.com/gautam899/Task_Mangement_System/assets/124019261/946b0cf5-9996-4694-b7ef-7df13bba4bce)
+
+![image](https://github.com/gautam899/Task_Mangement_System/assets/124019261/e9ec7371-ca25-4ba9-8829-ac7f840a30cb)
+
+![image](https://github.com/gautam899/Task_Mangement_System/assets/124019261/ca62dc1c-9518-451c-a2ec-432e1287dac3)
