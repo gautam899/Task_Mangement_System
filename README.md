@@ -16,3 +16,4 @@ This is a MERN stack project made using.
 8. Styled Components(To style react components.)
 9. Momentjs for formatting date and time
    
+![image](https://github.com/gautam899/Task_Mangement_System/assets/124019261/946b0cf5-9996-4694-b7ef-7df13bba4bce)
